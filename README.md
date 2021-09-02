@@ -2,4 +2,4 @@
 
 #Enunciado
 
-https://github.com/pedrovvitor/oo-composicao/files/7099078/Enunciado.txt
+https://docs.google.com/document/d/1bmWL5ncXrMkCyi1Xl6ZBrGxZTtbmX9rhI9IsOEnf3zw/edit?usp=sharing
